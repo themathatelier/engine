@@ -1,4 +1,4 @@
-# The Validation Engine
+### The Validation Engine
 This is the reasoning validator; the brain.
 
 ## Functions of the Engine
@@ -13,3 +13,5 @@ This is the reasoning validator; the brain.
 - Step parser
 - Solver calls
 - Return structured validation
+
+<em>Contact</em>
